@@ -21,4 +21,4 @@ These packages contain pre-written code and functions that the scripts rely on. 
 The following command is used to install all the packages listed in this `requirements.txt` file at once:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn 
